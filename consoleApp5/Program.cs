@@ -7,6 +7,8 @@ namespace ConsoleApp5
         static void Main(string[] args)
         {
             Console.WriteLine("Hello rahul here..!");
+            Console.WriteLine("welcome to the git hub");
+            Console.WriteLine("welcome to classroom");
         }
     }
 }
